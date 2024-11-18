@@ -45,17 +45,9 @@ Ensure you have these tools installed:
 5. Run the project
    `npm run dev`
 
-## Additional Resources
 
-### Code Repositories and Configuration Files
 
-- [Complete project code on GitHub](https://github.com/ed-roh/project-management)
-- [Tailwind CSS configuration](https://github.com/ed-roh/project-management/blob/master/client/tailwind.config.ts)
-- [Redux Toolkit setup](https://github.com/ed-roh/project-management/blob/master/client/src/app/redux.tsx)
-- [Database seed files](https://github.com/ed-roh/project-management/tree/master/server/prisma/seedData)
-- [Image files](https://github.com/ed-roh/project-management/tree/master/client/public)
-- [globals.css file (to copy for Gantt charts)](https://github.com/ed-roh/project-management/blob/master/client/src/app/globals.css)
-- [AWS EC2 Instruction file](https://github.com/ed-roh/project-management/blob/master/server/aws-ec2-instructions.md)
+
 
 ### Diagrams and Models
 
